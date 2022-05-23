@@ -1,6 +1,6 @@
 ### EX NO : 04
 ### DATE:
-# <p align="center">BACK-PROPOGATION---SINGLE-NEURON-</p>
+# <p align="center">BACK PROPOGATION SINGLE NEURON</p>
 
 
 # AIM:
